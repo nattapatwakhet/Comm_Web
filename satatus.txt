@@ -1,0 +1,14 @@
+divice
+0 active
+1 non active
+2 กำลังซ่อม
+3 อุปกรณ์เสีย
+report
+0 ปกติ
+1 แจ้งซ่อม
+2 กำลังซ่อม
+3 ซ่อมไม่ได้
+type
+1 user
+2 technician
+3 admin
